@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="n">
+    <file>imgs/icons8-color-palette.png</file>
+    <file>imgs/Reply All Arrow Filled-100.png</file>
+    <file>imgs/Delete-100.png</file>
+    <file>imgs/Plus-500.png</file>
+    <file>imgs/Conference Call Filled-100.png</file>
+    <file>imgs/Cash Register-100.png</file>
+    <file>imgs/Online Payment-100.png</file>
+    <file>imgs/edit-document.png</file>
+    <file>imgs/Settings-500.png</file>
+    <file>imgs/Checkmark-512 (1).png</file>
+    <file>imgs/Cancel-500.png</file>
+  </qresource>
+</RCC>
